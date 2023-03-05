@@ -12,7 +12,7 @@ public class Persona {
     }
 
     public Persona() {
-    	this.nombre = "";
+    	this.nombre = null;
     	this.cedula = 0;
     }
     
